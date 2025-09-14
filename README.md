@@ -1,4 +1,4 @@
-# 📊 UK Housing Market Analysis
+# 🏡 UK Housing Market Analysis
 
 ## 📌 Overview
 This project analyses UK housing price trends from 1995–2025 using publicly available data from the His Majesty's Land Registry (HM Land Registry). The goal is to identify regional differences in house price growth and build a simple regression model to forecast future prices. Interactive charts and visualisations are provided to support decision-making.
@@ -6,8 +6,8 @@ This project analyses UK housing price trends from 1995–2025 using publicly av
 
 ## 🗂️ Project Structure
 ├── data/       # Raw and processed data (or links to sources)  
-├── notebooks/  # Jupyter notebooks for exploration and modeling  
-├── src/        # Python scripts (data cleaning, modeling, utils)   
+├── notebooks/  # Jupyter notebooks for exploration and modelling  
+├── src/        # Python scripts (data cleaning, modelling, utils)   
 └── README.md   # Project documentation  
 
 
